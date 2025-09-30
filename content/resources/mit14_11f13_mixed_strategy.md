@@ -5,6 +5,8 @@ description: This resource file contains information regarding mixed strategy ma
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/8c59643640c6e69462b1e8438830cc23_MIT14_11F13_Mixed_strategy.pdf
 file_size: 191032
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

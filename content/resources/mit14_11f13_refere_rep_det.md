@@ -5,6 +5,8 @@ description: "This resource file contains information regarding referee report d
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/fd171105c6fac05e93ea90e9f77b7d64_MIT14_11F13_Refere_Rep_Det.pdf
 file_size: 90515
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -42,7 +42,7 @@ Osborne, Martin, J. _An Introduction to Game Theory_. Oxford University Press In
 
 Advanced students may prefer Osborne's graduate text:
 
-{{% resource_link "cf3ddd56-984c-4a71-82fd-e2bce68b7f4d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Osborne, Martin, J., and Ariel Rubinstein. _A Course In Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with {{% resource_link "87b00d54-2e06-484a-ab9a-69c91076e615" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650403) Osborne, Martin, J., and Ariel Rubinstein. _A Course In Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with [Google Books](http://books.google.com/books?id=5ntdaYX4LPkC&printsec=frontcover)\]
 
 Additional readings can be found in the {{% resource_link 8c169bbe-cca1-09b7-9f73-1141e65fbd23 "Readings" %}} section. 
 

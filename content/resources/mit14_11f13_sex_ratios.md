@@ -5,6 +5,8 @@ description: "This resource file contains information regarding sex ratios and t
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/9dd7c15ab68e191c3cdf1640e9c55f6a_MIT14_11F13_Sex_Ratios.pdf
 file_size: 1168243
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/16f3a32d40e1893dde79a88e73b77917_14-11_classroom-1.jpg
 file_size: 33384
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

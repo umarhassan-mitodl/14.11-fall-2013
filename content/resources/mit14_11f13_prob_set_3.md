@@ -5,6 +5,8 @@ description: "This resource file contains information regarding problem set 3.\r
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/bb0ffcadd23356ebbe5a212b28906db5_MIT14_11F13_Prob_set_3.pdf
 file_size: 125301
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
