@@ -5,8 +5,6 @@ description: "This resource file contains information regarding final project gu
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/d06fe0176b58c2e059d1d513d74915ef_MIT14_11F13_Fina_Pro_Guide.pdf
 file_size: 824105
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource file contains information regarding math preliminarie
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/84f69cb6ab84f9fbdca6f68d70c96de3_MIT14_11F13_Math_pre.pdf
 file_size: 166771
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

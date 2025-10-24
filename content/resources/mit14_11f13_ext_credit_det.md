@@ -5,8 +5,6 @@ description: "This resource file contains information regarding extra credit ass
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/2c0f2414c249df79c8f2497f45e87098_MIT14_11F13_Ext_Credit_Det.pdf
 file_size: 143053
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

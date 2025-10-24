@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides math handouts and MATLAB code files as study materials.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

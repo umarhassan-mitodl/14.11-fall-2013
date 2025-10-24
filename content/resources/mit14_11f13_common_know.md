@@ -4,8 +4,6 @@ description: This resource file contains information regarding common knowledge.
 file: /courses/14-11-insights-from-game-theory-into-social-behavior-fall-2013/3df8c4f2b86c6bbcbbc39967ba89e801_MIT14_11F13_common_know.pdf
 file_size: 2570434
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
